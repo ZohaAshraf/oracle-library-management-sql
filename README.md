@@ -7,6 +7,12 @@ Covers schema design, sample data, and 10 progressively advanced queries — fro
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://oracle-library-management-sql.vercel.app/
+
+---
+
 ##  Features
 
 - Clean, normalized schema with 4 tables and proper foreign key constraints
